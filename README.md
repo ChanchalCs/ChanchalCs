@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ChanchalCs
+- 👋pihuverma75350@gmail.com
+-  Hi, I’m @ChanchalCs
 - 👀 I’m interested in Research(software development).
-- 🌱 I’m currently pursuing in Btech from Computer Science.
-- 📫 Email : pihuverma75350@gmail.com.
+- 🌱 I have completed my Btech in 2022 .
+- 📫 I like Java, Data Structure & algorithms.
